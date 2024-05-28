@@ -25,20 +25,6 @@ Here are some ideas to get you started:
 
 <br>
 
-## ❤️ 경력 사항
-
-| 프로젝트 이름 | 설명 |
-|---------------|------|
-| 스마트 응급 구조상자 프로젝트 | 긴급 상황에서 응급처치를 돕기 위한 스마트 응급 구조상자 개발 |
-| 웨어러블 금연 관리 시스템 프로젝트 | 사용자의 금연 활동을 지원하는 웨어러블 금연 관리 시스템 개발 |
-| 자동 소재 분류 스마트팩토리 프로젝트 | 다양한 소재를 자동으로 분류하는 스마트팩토리 시스템 개발 |
-| AI를 활용한 어린이보호구역 인지 속도제어 프로젝트 | AI를 이용해 어린이 보호구역에서의 속도 제어 시스템 개발 |
-| CNN을 활용한 운전자 피로도 측정 및 경고 알림 프로젝트 | CNN을 사용하여 운전자의 피로도를 측정하고 경고하는 시스템 개발 |
-| AVR 미니세탁기 제작 프로젝트 | AVR 마이크로컨트롤러를 이용한 미니 세탁기 제작 |
-| 구글 어시스턴트를 활용한 스마트미러 프로젝트 | 구글 어시스턴트를 이용한 스마트미러 개발 |
-| MFC 이미지 프로세싱 프로젝트 | MFC를 사용한 이미지 처리 프로젝트 개발 |
-| PC IPT 포트 이용한 IR 리모컨 프로젝트 | PC IPT 포트를 활용한 IR 리모컨 개발 |
-
 
 ## 🙂 Experience with projects
 | 기술 | 뱃지 |
@@ -90,25 +76,41 @@ Here are some ideas to get you started:
 
 ## 💻 My Blog~
 
-<div style="display:flex; flex-direction:row;">
-    <a href="https://shinho804.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>  
-    
-
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=today-studies&theme=default)](https://shinho804.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) 
-</div>
-
+| 블로그 | 링크 | 뱃지 |
+|--------|------|------|
+| Tistory | [블로그 바로가기](https://shinho804.tistory.com/) | <a href="https://shinho804.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a> |
+| 프로젝트 | [프로젝트 바로가기](https://shinho804.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) | [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=today-studies&theme=default)](https://shinho804.tistory.com/category/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |
 
 <br>
 
+## ❤️ 경력 사항
+
+| 프로젝트 이름 | 설명 |
+|---------------|------|
+| 스마트 응급 구조상자 프로젝트 | 긴급 상황에서 응급처치를 돕기 위한 스마트 응급 구조상자 개발 |
+| 웨어러블 금연 관리 시스템 프로젝트 | 사용자의 금연 활동을 지원하는 웨어러블 금연 관리 시스템 개발 |
+| 자동 소재 분류 스마트팩토리 프로젝트 | 다양한 소재를 자동으로 분류하는 스마트팩토리 시스템 개발 |
+| AI를 활용한 어린이보호구역 인지 속도제어 프로젝트 | AI를 이용해 어린이 보호구역에서의 속도 제어 시스템 개발 |
+| CNN을 활용한 운전자 피로도 측정 및 경고 알림 프로젝트 | CNN을 사용하여 운전자의 피로도를 측정하고 경고하는 시스템 개발 |
+| AVR 미니세탁기 제작 프로젝트 | AVR 마이크로컨트롤러를 이용한 미니 세탁기 제작 |
+| 구글 어시스턴트를 활용한 스마트미러 프로젝트 | 구글 어시스턴트를 이용한 스마트미러 개발 |
+| MFC 이미지 프로세싱 프로젝트 | MFC를 사용한 이미지 처리 프로젝트 개발 |
+| PC IPT 포트 이용한 IR 리모컨 프로젝트 | PC IPT 포트를 활용한 IR 리모컨 개발 |
+
+
+
 # 📞 Contact
-<a href="mailto:shinho8042069@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="mailto:shinho804@naver.com?"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/hye._.gpdnjss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-[![shinnahyewon's GitHub stats](https://github-readme-stats.vercel.app/)](https://github.com/shinnahyewon)
-![shinnahyewon's GitHub stats](https://github-readme-stats.vercel.app/apishinnahyewon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+| 연락 방법 | 링크 | 뱃지 |
+|-----------|------|------|
+| 이메일 (Gmail) | [이메일 보내기](mailto:shinho8042069@gmail.com) | <a href="mailto:shinho8042069@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> |
+| 이메일 (Naver) | [이메일 보내기](mailto:shinho804@naver.com) | <a href="mailto:shinho804@naver.com?"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a> |
+| Instagram | [프로필 바로가기](https://www.instagram.com/hye._.gpdnjss/) | <a href="https://www.instagram.com/hye._.gpdnjss/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> |
 
+<br>
+
+| GitHub Stats | 링크 | 뱃지 |
+|--------------|------|------|
+| shinnahyewon's GitHub stats | [링크](https://github-readme-stats.vercel.app/) | ![shinnahyewon's GitHub stats](https://github-readme-stats.vercel.app/) |
+| GitHub stats (reviews, discussions, etc.) | - | ![shinnahyewon's GitHub stats](https://github-readme-stats.vercel.app/apishinnahyewon&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) |
 </div>
