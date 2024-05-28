@@ -87,15 +87,15 @@ Here are some ideas to get you started:
 
 | 프로젝트 이름 | 설명 | 링크 |
 |---------------|------|------|
-| 스마트 응급 구조상자 프로젝트 | 긴급 상황에서 응급처치를 돕기 위한 스마트 응급 구조상자 개발 | [GitHub 링크](https://github.com/shinnahyewon/Devicemart_project_Smart-first-aid-kit) |
-| 웨어러블 금연 관리 시스템 프로젝트 | 사용자의 금연 활동을 지원하는 웨어러블 금연 관리 시스템 개발 | [GitHub 링크](https://github.com/shinnahyewon/Wearable-Anti-Smoking-Management-System) |
-| 자동 소재 분류 스마트팩토리 프로젝트 | 다양한 소재를 자동으로 분류하는 스마트팩토리 시스템 개발 | [GitHub 링크](https://github.com/shinnahyewon/Automatic-Material-Classification-Smart-Factory-Project) |
-| AI를 활용한 어린이보호구역 인지 속도제어 프로젝트 | AI를 이용해 어린이 보호구역에서의 속도 제어 시스템 개발 | [GitHub 링크](https://github.com/shinnahyewon/A-project-to-control-the-recognition-speed-of-child-protection-zones-using-AI) |
-| CNN을 활용한 운전자 피로도 측정 및 경고 알림 프로젝트 | CNN을 사용하여 운전자의 피로도를 측정하고 경고하는 시스템 개발 | [GitHub 링크](https://github.com/shinnahyewon/Driver-fatigue-measurement-and-warning-notification-project-using-CNN) |
+| 스마트 응급 구조상자 프로젝트 | 음성 인식, 상처 인식 기술을 활용하여 사용자의 의료적 필요를 정확히 파악하고 적시에 맞춤형 의료 지원을 제공. | [GitHub 링크](https://github.com/shinnahyewon/Devicemart_project_Smart-first-aid-kit) |
+| 웨어러블 금연 관리 시스템 프로젝트 | 아두이노, 라즈베리파이, STM32F429의 소켓통신을 통해 웨어러블 금연관리. | [GitHub 링크](https://github.com/shinnahyewon/Wearable-Anti-Smoking-Management-System) |
+| 자동 소재 분류 스마트팩토리 프로젝트 | PLC 시뮬레이터을 활용하여 물품을 인식한 후 설정해 놓은 값에 따라 분류. | [GitHub 링크](https://github.com/shinnahyewon/Automatic-Material-Classification-Smart-Factory-Project) |
+| AI를 활용한 어린이보호구역 인지 속도제어 프로젝트 | 카메라로 어린이 보호구역 표지판과 도로표지판, 속도 표지판을 객체 감지하여 분류. | [GitHub 링크](https://github.com/shinnahyewon/A-project-to-control-the-recognition-speed-of-child-protection-zones-using-AI) |
+| CNN을 활용한 운전자 피로도 측정 및 경고 알림 프로젝트 | 얼굴인식과 전처리 과정을 거친 이미지를 데이터로 가공하여 CNN로 특징을 추출하여 CNN 학습된 모델을 실시간 영상에 적용하여 운전자의 상태를 분석. | [GitHub 링크](https://github.com/shinnahyewon/Driver-fatigue-measurement-and-warning-notification-project-using-CNN) |
 | AVR 미니세탁기 제작 프로젝트 | AVR 마이크로컨트롤러를 이용한 미니 세탁기 제작 | [GitHub 링크](https://github.com/shinnahyewon/AVR-Mini-Washing-Machine-Production-Project) |
-| 구글 어시스턴트를 활용한 스마트미러 프로젝트 | 구글 어시스턴트를 이용한 스마트미러 개발 | [GitHub 링크](https://github.com/shinnahyewon/Smart-Mirror-Project-with-Google-Assistant) |
-| MFC 이미지 프로세싱 프로젝트 | MFC를 사용한 이미지 처리 프로젝트 개발 | [GitHub 링크](https://github.com/shinnahyewon/MFC-Image-Processing-Project) |
-| PC IPT 포트 이용한 IR 리모컨 프로젝트 | PC IPT 포트를 활용한 IR 리모컨 개발 | [GitHub 링크](https://github.com/shinnahyewon/IR-remote-control-project-using-PC-IPT-port) |
+| 구글 어시스턴트를 활용한 스마트미러 프로젝트 |- 인공지능 스피커와 거울을 접목시켜 IoT 거울 구현. | [GitHub 링크](https://github.com/shinnahyewon/Smart-Mirror-Project-with-Google-Assistant) |
+| MFC 이미지 프로세싱 프로젝트 | Visual C++을 이용하여 비전 검사에 필요한 이미지 필터링, 주파수 및 노이즈 분석 등 이미지 처리 알고리즘 실습. | [GitHub 링크](https://github.com/shinnahyewon/MFC-Image-Processing-Project) |
+| PC IPT 포트 이용한 IR 리모컨 프로젝트 | 적외선 센서를 이용하여 리모컨을 만들어 SonyTV를 조작 | [GitHub 링크](https://github.com/shinnahyewon/IR-remote-control-project-using-PC-IPT-port) |
 
 
 
