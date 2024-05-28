@@ -25,6 +25,21 @@ Here are some ideas to get you started:
 
 <br>
 
+## ❤️ 경력 사항
+
+| 프로젝트 이름 | 설명 |
+|---------------|------|
+| 스마트 응급 구조상자 프로젝트 | 긴급 상황에서 응급처치를 돕기 위한 스마트 응급 구조상자 개발 |
+| 웨어러블 금연 관리 시스템 프로젝트 | 사용자의 금연 활동을 지원하는 웨어러블 금연 관리 시스템 개발 |
+| 자동 소재 분류 스마트팩토리 프로젝트 | 다양한 소재를 자동으로 분류하는 스마트팩토리 시스템 개발 |
+| AI를 활용한 어린이보호구역 인지 속도제어 프로젝트 | AI를 이용해 어린이 보호구역에서의 속도 제어 시스템 개발 |
+| CNN을 활용한 운전자 피로도 측정 및 경고 알림 프로젝트 | CNN을 사용하여 운전자의 피로도를 측정하고 경고하는 시스템 개발 |
+| AVR 미니세탁기 제작 프로젝트 | AVR 마이크로컨트롤러를 이용한 미니 세탁기 제작 |
+| 구글 어시스턴트를 활용한 스마트미러 프로젝트 | 구글 어시스턴트를 이용한 스마트미러 개발 |
+| MFC 이미지 프로세싱 프로젝트 | MFC를 사용한 이미지 처리 프로젝트 개발 |
+| PC IPT 포트 이용한 IR 리모컨 프로젝트 | PC IPT 포트를 활용한 IR 리모컨 개발 |
+
+
 ## 🙂 Experience with projects
 ![java](https://img.shields.io/badge/java-2F2625?style=for-the-badge&logo=coffeescript) ![Python](https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&logo=Python&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus) ![C](https://img.shields.io/badge/C-033963?style=for-the-badge&logo=C) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
