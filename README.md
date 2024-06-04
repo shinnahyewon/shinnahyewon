@@ -53,8 +53,7 @@ Here are some ideas to get you started:
 
 | 프로젝트 이름 | 설명 | 링크 |
 |---------------|------|------|
-| 스마트 응급 구조상자 프로젝트 _ 2024 ICT 융합프로젝트
-공모전 최우수상 | 음성 인식, 상처 인식 기술을 활용하여 사용자의 의료적 필요를 정확히 파악하고 적시에 맞춤형 의료 지원을 제공. | [GitHub 링크](https://github.com/shinnahyewon/Devicemart_project_Smart-first-aid-kit) |
+| 스마트 응급 구조상자 프로젝트 _ 2024 ICT 융합프로젝트 공모전 최우수상 | 음성 인식, 상처 인식 기술을 활용하여 사용자의 의료적 필요를 정확히 파악하고 적시에 맞춤형 의료 지원을 제공. | [GitHub 링크](https://github.com/shinnahyewon/Devicemart_project_Smart-first-aid-kit) |
 | 웨어러블 금연 관리 시스템 프로젝트 | 아두이노, 라즈베리파이, STM32F429의 소켓통신을 통해 웨어러블 금연관리. | [GitHub 링크](https://github.com/shinnahyewon/Wearable-Anti-Smoking-Management-System) |
 | 자동 소재 분류 스마트팩토리 프로젝트 | PLC 시뮬레이터을 활용하여 물품을 인식한 후 설정해 놓은 값에 따라 분류. | [GitHub 링크](https://github.com/shinnahyewon/Automatic-Material-Classification-Smart-Factory-Project) |
 | AI를 활용한 어린이보호구역 인지 속도제어 프로젝트 | 카메라로 어린이 보호구역 표지판과 도로표지판, 속도 표지판을 객체 감지하여 분류. | [GitHub 링크](https://github.com/shinnahyewon/A-project-to-control-the-recognition-speed-of-child-protection-zones-using-AI) |
